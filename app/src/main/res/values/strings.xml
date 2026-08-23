@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BoCamera</string>
+    <string name="camera_permission_denied">需要相机权限才能预览</string>
 </resources>
